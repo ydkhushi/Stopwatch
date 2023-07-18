@@ -1,2 +1,2 @@
 # Stopwatch
-This is the basic project .
+This is a basic javascript project .
